@@ -1,0 +1,65 @@
+style.css
+.box {
+	border: 1px red dotted;
+}
+
+body {
+	font-family: "Century Gothic", sans-serif;
+}
+
+
+.main-nav {
+	border-bottom: 1px #e1e1e1 solid;
+	padding: 8px 0px;
+}
+
+nav a {
+	color: #787c8e;
+}
+
+.container {
+	width: 800px;
+}
+
+
+.container-fluid{
+	width: 100%;
+}
+
+.footer{
+	position: absolute;
+	width: 100%;
+	bottom: 0px;
+	font-size: 12px;
+}
+
+
+.address-text{
+	max-width:  250px;
+	font-size: 13px;
+}
+
+
+.mr-50{
+	margin-right: 50px;
+}
+
+
+.form-control {
+	min-height:  30px;
+	font-size: 16px;
+	padding-left: 10px;
+	box-sizing: border-box;
+
+}
+
+
+.mailing-list{
+	font-size: 14px;
+
+}
+
+.submit{
+	font-size: 16px;
+	border-radius:  5px;
+}

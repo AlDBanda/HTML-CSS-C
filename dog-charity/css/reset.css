@@ -1,0 +1,18 @@
+/* RESET */
+body, ul, h1,h2,h3,h4,h5,h6,p {
+	margin: 0px;
+	padding: 0px;
+}
+
+ul {
+	list-style: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+address {
+	font-style: normal;
+}
+/* END RESET */

@@ -1,0 +1,25 @@
+/* POSITIONING */
+.centered {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.centre-text {
+	text-align:  centre;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.cleat-float::after{
+	display:  block;
+	content:  "";
+	clear:  both;
+}
+
+/*  END POSITIONING */
